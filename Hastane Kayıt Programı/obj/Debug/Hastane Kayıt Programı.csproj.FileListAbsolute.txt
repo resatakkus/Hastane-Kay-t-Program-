@@ -1,0 +1,51 @@
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\bin\Debug\Hastane Kayıt Programı.exe
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\bin\Debug\Hastane Kayıt Programı.pdb
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmAna.resources
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmSekreter.resources
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.csproj.GenerateResource.Cache
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.exe
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.pdb
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmHasta.resources
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmDoktor.resources
+C:\Users\Recep ÇETİN\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmMuayene.resources
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.exe
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.pdb
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\bin\Debug\Hastane Kayıt Programı.exe
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\bin\Debug\Hastane Kayıt Programı.pdb
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmAna.resources
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmDoktor.resources
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmHasta.resources
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmMuayene.resources
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmSekreter.resources
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\EMRE\Desktop\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.csproj.GenerateResource.Cache
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.exe
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.pdb
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\bin\Debug\Hastane Kayıt Programı.exe
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\bin\Debug\Hastane Kayıt Programı.pdb
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmAna.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmDoktor.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmHasta.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmMuayene.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmSekreter.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\EMRE\Desktop\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.csproj.GenerateResource.Cache
+C:\Users\EMRE\Desktop\Programlama Ödevler\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.exe
+C:\Users\EMRE\Desktop\Programlama Ödevler\(30)Programlama Ödevi\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.pdb
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\bin\Debug\Hastane Kayıt Programı.exe
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\bin\Debug\Hastane Kayıt Programı.pdb
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmAna.resources
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmDoktor.resources
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmHasta.resources
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmMuayene.resources
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.FrmSekreter.resources
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.exe
+C:\Users\pc\Desktop\Yeni klasör\Hastane Kayıt Programı\Hastane Kayıt Programı\obj\Debug\Hastane Kayıt Programı.pdb
